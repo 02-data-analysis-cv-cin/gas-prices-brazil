@@ -1,7 +1,7 @@
-# recife-street-noshow
+# recife-suburb-noshow
 
 
-### Recife Street No-show Project
+### Recife Suburb No-show Project
 This project realizes data analysis about modified no-show appoimentement dataset as requiriment evaluation data analysis introduction in CIN-UFPE/SiDi/FACEPE Computation Vision specialization.
 
 ### Dataset
