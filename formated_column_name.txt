@@ -1,0 +1,7 @@
+morm_columns = ['regiao', 'estado', 'produto', 'numero_posto_pesquisado',
+       'preco_medio_revenda', 'coef_variacao_revenda',
+       'preco_medio_distribuicao', 'coef_variacao_distribuicao',
+       'data_inicial', 'data_final', 'mes', 'ano', 'desvio_padrao_revenda',
+       'preço_minimo_revenda', 'preço_maximo_revenda', 'margem_media_revenda',
+       'desvio_padrao_distribuicao', 'preco_minimo_distribuicao',
+       'preço_maximo_distribuicao', 'unidade_de_medida']
