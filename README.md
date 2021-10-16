@@ -41,7 +41,7 @@ This project realizes data analysis about modified Gas Price of Brazil  dataset 
 
 	- [Univariate Notebook](https://github.com/02-data-analysis-cv-cin/gas-prices-brazil/blob/main/notebook/estatisca_univariada.ipynb)
 	
-	- [Bivariate Notebook] (https://github.com/02-data-analysis-cv-cin/gas-prices-brazil/blob/main/notebook/estatisca_bivariada.ipynb)
+	- [Bivariate Notebook](https://github.com/02-data-analysis-cv-cin/gas-prices-brazil/blob/main/notebook/estatisca_bivariada.ipynb)
 
 	
 ### 3. Present descriptive statistics of the data with views
@@ -49,7 +49,7 @@ This project realizes data analysis about modified Gas Price of Brazil  dataset 
 -  :white_check_mark: - [Descriptive Statistical Views](https://github.com/02-data-analysis-cv-cin/gas-prices-brazil/blob/main/notebook/views.ipynb)
 
 
+###  Final Notebook
 
-
-
+-  :white_check_mark: - [Unified Notebook](https://github.com/02-data-analysis-cv-cin/gas-prices-brazil/blob/main/notebook/gas_price_in_brazil.ipynb)
 
