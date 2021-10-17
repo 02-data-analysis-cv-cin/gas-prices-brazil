@@ -53,7 +53,8 @@ This project realizes data analysis about modified Gas Price of Brazil dataset a
 
 -  :white_check_mark: [Unified Notebook](https://github.com/02-data-analysis-cv-cin/gas-prices-brazil/blob/main/notebook/gas_price_in_brazil.ipynb)
 
-### Agredecimentos
+
+### Acknowledgments
 
 <p align="center">
 <img src="https://github.com/02-data-analysis-cv-cin/gas-prices-brazil/blob/main/img/logo.png" alt="fomentadores" width="500px" height="300px" class="center"/>
