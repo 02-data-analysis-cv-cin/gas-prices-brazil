@@ -57,5 +57,5 @@ This project realizes data analysis about modified Gas Price of Brazil dataset a
 ### Acknowledgments
 
 <p align="center">
-<img src="https://github.com/02-data-analysis-cv-cin/gas-prices-brazil/blob/main/img/logo.png" alt="fomentadores" width="500px" height="300px" class="center"/>
+<img src="https://github.com/02-data-analysis-cv-cin/gas-prices-brazil/blob/main/img/logo.png" alt="fomentadores"  class="center"/>
 </p>
