@@ -2,7 +2,7 @@
 
 
 ## Description
-This project realizes data analysis about modified Gas Price of Brazil  dataset as requirement evaluation data analysis introduction in CIN-UFPE/SiDi/FACEPE Computation Vision specialization.
+This project realizes data analysis about modified Gas Price of Brazil dataset as requirement evaluation data analysis introduction in CIN-UFPE/SiDi/FACEPE Computation Vision specialization.
 
 ## Specifications
 
@@ -10,8 +10,8 @@ This project realizes data analysis about modified Gas Price of Brazil  dataset 
 
 #### Dataset
 
-- The official dataset utilized is avaliable [here](https://www.kaggle.com/matheusfreitag/gas-prices-in-brazil)
-- The formated dataset utilized is avaliable [here](https://github.com/02-data-analysis-cv-cin/gas-prices-brazil/blob/main/dataset/formated_gas_prices_brazil.csv)
+- The official raw dataset utilized is avaliable [here](https://www.kaggle.com/matheusfreitag/gas-prices-in-brazil)
+- The standard columns of dataset utilized is avaliable [here](https://github.com/02-data-analysis-cv-cin/gas-prices-brazil/blob/main/dataset/formated_gas_prices_brazil.csv)
 - The normalized dataset utilized is avaliable [here](https://github.com/02-data-analysis-cv-cin/gas-prices-brazil/blob/main/dataset/norm_dist_gas_prices_brazil.csv)
 
 
@@ -46,10 +46,15 @@ This project realizes data analysis about modified Gas Price of Brazil  dataset 
 	
 ### 3. Present descriptive statistics of the data with views
 
--  :white_check_mark: - [Descriptive Statistical Views](https://github.com/02-data-analysis-cv-cin/gas-prices-brazil/blob/main/notebook/views.ipynb)
+-  :white_check_mark: [Descriptive Statistical Views](https://github.com/02-data-analysis-cv-cin/gas-prices-brazil/blob/main/notebook/views.ipynb)
 
 
 ###  Final Notebook
 
--  :white_check_mark: - [Unified Notebook](https://github.com/02-data-analysis-cv-cin/gas-prices-brazil/blob/main/notebook/gas_price_in_brazil.ipynb)
+-  :white_check_mark: [Unified Notebook](https://github.com/02-data-analysis-cv-cin/gas-prices-brazil/blob/main/notebook/gas_price_in_brazil.ipynb)
 
+### Agredecimentos
+
+<p align="center">
+<img src="https://github.com/02-data-analysis-cv-cin/gas-prices-brazil/blob/main/img/logo.png" alt="fomentadores" width="500px" height="300px" class="center"/>
+</p>
